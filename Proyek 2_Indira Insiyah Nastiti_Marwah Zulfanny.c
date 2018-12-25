@@ -3,11 +3,11 @@
 #include <windows.h>
 
 
-/* Link Github:								1. https://github.com/marwahzulfanny/Marwah-Zulfanny-Alief_Indira-Insiyah_Final-Project */
-/*                                          2. https://github.com/IndiraInsiyah/FinalProject2-Proglan                               */
-/*                                          Oleh : Kelompok 16                                                                      */
-/* 											Indira Insiyah Nastiti-1706986006                                                       */
-/* 											Marwah Zulfanny Alief-1706986025                                                        */
+/* Link Github:				1. https://github.com/marwahzulfanny/Marwah-Zulfanny-Alief_Indira-Insiyah_Final-Project */
+/*                                      2. https://github.com/IndiraInsiyah/FinalProject2-Proglan                               */
+/*                                      Oleh : Kelompok 16                                                                      */
+/* 					Indira Insiyah Nastiti-1706986006                                                       */
+/* 					Marwah Zulfanny Alief-1706986025                                                        */
 
 
 int pilihan,x,p;
